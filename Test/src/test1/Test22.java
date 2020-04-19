@@ -1,6 +1,6 @@
-package test1;
+package test2;
 
-public class Test11 {
+public class Test22 {
 	public static void main(String[] args) {
 		System.out.println("1233");
         System.out.println("4566");
